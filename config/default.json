@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "adpchspd",
+  "mongoUri": "mongodb+srv://adpchspd:1234@cluster0.iqhrf.mongodb.net/TCMV?retryWrites=true&w=majority"
+}
